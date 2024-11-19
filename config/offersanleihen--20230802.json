@@ -1,0 +1,892 @@
+[
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "NL0010525499 ",
+  "issuer": "Orange Lion 2013-10 RMBS B.V.",
+  "coupon": 12.1,
+  "maturity": "06\/26\/2045",
+  "rating": "Aaa",
+  "currency": "EUR",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "NL0010525481 ",
+  "issuer": "Orange Lion 2013-10 RMBS B.V.",
+  "coupon": 9.85,
+  "maturity": "06\/26\/2045",
+  "rating": "Aaa",
+  "currency": "EUR",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "NL0010525473 ",
+  "issuer": "Orange Lion 2013-10 RMBS B.V.",
+  "coupon": 7.85,
+  "maturity": "06\/26\/2045",
+  "rating": "Aaa",
+  "currency": "EUR",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0216513548 ",
+  "issuer": "E-MAC NL 2005-I B.V.",
+  "coupon": 8.22,
+  "maturity": "04\/25\/2038",
+  "rating": "Aa2",
+  "currency": "EUR",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0216513118 ",
+  "issuer": "E-MAC NL 2005-I B.V.",
+  "coupon": 6.57,
+  "maturity": "04\/25\/2038",
+  "rating": "Aaa",
+  "currency": "EUR",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0207210906 ",
+  "issuer": "E-MAC NL 2004-II B.V.",
+  "coupon": 12.81,
+  "maturity": "01\/25\/2037",
+  "rating": "Aa3",
+  "currency": "EUR",
+  "denomination": 500000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0207209569 ",
+  "issuer": "E-MAC NL 2004-II B.V.",
+  "coupon": 9.63,
+  "maturity": "01\/25\/2037",
+  "rating": "Aa1",
+  "currency": "EUR",
+  "denomination": 500000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0207208165 ",
+  "issuer": "E-MAC NL 2004-II B.V.",
+  "coupon": 7,
+  "maturity": "01\/25\/2037",
+  "rating": "Aaa",
+  "currency": "EUR",
+  "denomination": 500000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0188807928 ",
+  "issuer": "E-MAC NL 2004-I B.V.",
+  "coupon": 9.22,
+  "maturity": "07\/25\/2036",
+  "rating": "Aa3",
+  "currency": "EUR",
+  "denomination": 500000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0188807506 ",
+  "issuer": "E-MAC NL 2004-I B.V.",
+  "coupon": 7.82,
+  "maturity": "07\/25\/2036",
+  "rating": "Aa1",
+  "currency": "EUR",
+  "denomination": 500000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0188806870 ",
+  "issuer": "E-MAC NL 2004-I B.V.",
+  "coupon": 5.98,
+  "maturity": "07\/25\/2036",
+  "rating": "Aaa",
+  "currency": "EUR",
+  "denomination": 500000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0596191360 ",
+  "issuer": "Santander Financial Services PLC",
+  "coupon": 5.75,
+  "maturity": "03\/02\/2026",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0329524457 ",
+  "issuer": "Johnson & Johnson",
+  "coupon": 5.5,
+  "maturity": "11\/06\/2024",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 50000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0175478873 ",
+  "issuer": "Roche Finance Europe B.V.",
+  "coupon": 5.38,
+  "maturity": "08\/29\/2023",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0106655235 ",
+  "issuer": "The Procter & Gamble Co.",
+  "coupon": 6.25,
+  "maturity": "01\/31\/2030",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0605560084 ",
+  "issuer": "IPIC GMTN Ltd.",
+  "coupon": 6.88,
+  "maturity": "03\/14\/2026",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0130681512 ",
+  "issuer": "Canary Wharf Finance Ltd.",
+  "coupon": 5.95,
+  "maturity": "10\/22\/2037",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 5000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS2629368999 ",
+  "issuer": "Skandinaviska Enskilda Banken AB",
+  "coupon": 5.5,
+  "maturity": "06\/01\/2026",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS2570858303 ",
+  "issuer": "Metropolitan Life Global Funding I",
+  "coupon": 5,
+  "maturity": "01\/10\/2030",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "PTTGUAOM0005 ",
+  "issuer": "TAGUS - Sociedade de Titularizaçao de Créditos S.A.",
+  "coupon": 5.39,
+  "maturity": "05\/12\/2025",
+  "rating": "Aa2",
+  "currency": "EUR",
+  "denomination": 50000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "PTTGUDOM0002 ",
+  "issuer": "TAGUS - Sociedade de Titularizaçao de Créditos S.A.",
+  "coupon": 5.04,
+  "maturity": "05\/12\/2025",
+  "rating": "Aa3",
+  "currency": "EUR",
+  "denomination": 50000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "FR001400I293 ",
+  "issuer": "Banque Fédérative du Crédit Mutuel S.A. [BFCM]",
+  "coupon": 5.38,
+  "maturity": "05\/25\/2028",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0731407655 ",
+  "issuer": "NatWest Markets PLC",
+  "coupon": 5.13,
+  "maturity": "01\/13\/2024",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0186854930 ",
+  "issuer": "Telereal Securitisation PLC",
+  "coupon": 5.39,
+  "maturity": "12\/10\/2033",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0564485273 ",
+  "issuer": "BG Energy Capital PLC",
+  "coupon": 5.13,
+  "maturity": "12\/01\/2025",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "FR0000486763 ",
+  "issuer": "Compagnie de Financement Foncier",
+  "coupon": 5.5,
+  "maturity": "01\/26\/2027",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0144628053 ",
+  "issuer": "SNCF S.A.",
+  "coupon": 5.38,
+  "maturity": "03\/18\/2027",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "FR0000486581 ",
+  "issuer": "Caisse Francaise de Financement Local",
+  "coupon": 5.5,
+  "maturity": "07\/16\/2026",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS2658239806 ",
+  "issuer": "African Development Bank",
+  "coupon": 5.5,
+  "maturity": "08\/13\/2025",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "PTSSCCOM0010 ",
+  "issuer": "SAGRES Sociedade de Titularizaçao de Créditos S.A.",
+  "coupon": 7.22,
+  "maturity": "03\/21\/2033",
+  "rating": "Aa2",
+  "currency": "EUR",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS2649502015 ",
+  "issuer": "Asian Development Bank (ADB)",
+  "coupon": 6.13,
+  "maturity": "08\/15\/2025",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "AT0000A1YYR2 ",
+  "issuer": "Raiffeisenverband Salzburg eGen",
+  "coupon": 5.37,
+  "maturity": "05\/24\/2034",
+  "rating": "Aaa",
+  "currency": "EUR",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "NL0010525457 ",
+  "issuer": "Orange Lion 2013-10 RMBS B.V.",
+  "coupon": 5.1,
+  "maturity": "06\/26\/2045",
+  "rating": "Aaa",
+  "currency": "EUR",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0584363724 ",
+  "issuer": "Nationwide Building Society",
+  "coupon": 5.63,
+  "maturity": "01\/28\/2026",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Deutschland",
+  "ISIN": "XS0138036842 ",
+  "issuer": "Kreditanstalt für Wiederaufbau",
+  "coupon": 5.5,
+  "maturity": "06\/18\/2025",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0702029132 ",
+  "issuer": "BG Energy Capital PLC",
+  "coupon": 5,
+  "maturity": "11\/04\/2036",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Deutschland",
+  "ISIN": "XS0200320579 ",
+  "issuer": "Kreditanstalt für Wiederaufbau",
+  "coupon": 5,
+  "maturity": "09\/10\/2024",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0110373569 ",
+  "issuer": "European Investment Bank (EIB)",
+  "coupon": 5.5,
+  "maturity": "04\/15\/2025",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0092541969 ",
+  "issuer": "Equinor ASA",
+  "coupon": 6.13,
+  "maturity": "11\/27\/2028",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS2655864655 ",
+  "issuer": "International Finance Corp.",
+  "coupon": 5.5,
+  "maturity": "07\/22\/2026",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0298709188 ",
+  "issuer": "Investor AB",
+  "coupon": 5.5,
+  "maturity": "05\/05\/2037",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0416848793 ",
+  "issuer": "Equinor ASA",
+  "coupon": 6.88,
+  "maturity": "03\/11\/2031",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0589945459 ",
+  "issuer": "Lloyds Bank PLC",
+  "coupon": 6,
+  "maturity": "02\/08\/2029",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0143739182 ",
+  "issuer": "SNCF Réseau S.A.",
+  "coupon": 5,
+  "maturity": "03\/11\/2052",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0096412548 ",
+  "issuer": "SNCF Réseau S.A.",
+  "coupon": 5.25,
+  "maturity": "12\/07\/2028",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0099196197 ",
+  "issuer": "International Finance Corp.",
+  "coupon": 5.38,
+  "maturity": "12\/07\/2028",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0179947196 ",
+  "issuer": "CTRL Section [1] Finance PLC",
+  "coupon": 5.23,
+  "maturity": "05\/02\/2035",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "US880591DP40 ",
+  "issuer": "Tennessee Valley Authority",
+  "coupon": 5.63,
+  "maturity": "06\/07\/2032",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0096806590 ",
+  "issuer": "BNG Bank N.V.",
+  "coupon": 5.2,
+  "maturity": "12\/07\/2028",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 50000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0123656836 ",
+  "issuer": "SNCF Réseau S.A.",
+  "coupon": 5.25,
+  "maturity": "01\/31\/2035",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0202077953 ",
+  "issuer": "Walmart Inc.",
+  "coupon": 5.25,
+  "maturity": "09\/28\/2035",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0158603083 ",
+  "issuer": "The Procter & Gamble Co.",
+  "coupon": 5.25,
+  "maturity": "01\/19\/2033",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0103369020 ",
+  "issuer": "Oesterreichische Kontrollbank AG",
+  "coupon": 5.75,
+  "maturity": "12\/07\/2028",
+  "rating": "Aa1",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0419834931 ",
+  "issuer": "Walmart Inc.",
+  "coupon": 5.63,
+  "maturity": "03\/27\/2034",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0629875708 ",
+  "issuer": "Coöperatieve Rabobank U.A.",
+  "coupon": 5.25,
+  "maturity": "05\/23\/2041",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0121617517 ",
+  "issuer": "Walmart Inc.",
+  "coupon": 5.75,
+  "maturity": "12\/19\/2030",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0091740018 ",
+  "issuer": "European Bank for Reconstruction and Development",
+  "coupon": 5.63,
+  "maturity": "12\/07\/2028",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0262913725 ",
+  "issuer": "Wells Fargo Bank N.A.",
+  "coupon": 5.25,
+  "maturity": "08\/01\/2023",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 50000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "BE0365452532 ",
+  "issuer": "Société Nationale des Chemins de Fer Belges",
+  "coupon": 5.7,
+  "maturity": "05\/28\/2032",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 150000
+ },
+ {
+  "category": " Unternehmensanleihen Deutschland",
+  "ISIN": "XS0138037733 ",
+  "issuer": "Kreditanstalt für Wiederaufbau",
+  "coupon": 6,
+  "maturity": "12\/07\/2028",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0530302628 ",
+  "issuer": "Coöperatieve Rabobank U.A.",
+  "coupon": 5.38,
+  "maturity": "08\/03\/2060",
+  "rating": "Aa2",
+  "currency": "GBP",
+  "denomination": 50000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0085727559 ",
+  "issuer": "European Investment Bank (EIB)",
+  "coupon": 6,
+  "maturity": "12\/07\/2028",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0132378166 ",
+  "issuer": "EUROFIMA Europäische Gesellschaft für die Finanzierung von Eisen",
+  "coupon": 5.5,
+  "maturity": "06\/07\/2032",
+  "rating": "Aa1",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS2338632628 ",
+  "issuer": "Dexia Crédit Local S.A.",
+  "coupon": 5.3,
+  "maturity": "03\/25\/2026",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0130092793 ",
+  "issuer": "Nederlandse Waterschapsbank N.V.",
+  "coupon": 5.38,
+  "maturity": "06\/07\/2032",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Deutschland",
+  "ISIN": "XS2351140202 ",
+  "issuer": "Kreditanstalt für Wiederaufbau",
+  "coupon": 5.23,
+  "maturity": "06\/14\/2024",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0125851286 ",
+  "issuer": "Nordic Investment Bank",
+  "coupon": 5.2,
+  "maturity": "06\/07\/2032",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 10000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0150670551 ",
+  "issuer": "LCR Finance PLC",
+  "coupon": 5.1,
+  "maturity": "03\/07\/2051",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS2287877018 ",
+  "issuer": "European Investment Bank (EIB)",
+  "coupon": 5.5,
+  "maturity": "01\/18\/2027",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS1991342566 ",
+  "issuer": "Domi 2019-1 B.V.",
+  "coupon": 5.63,
+  "maturity": "06\/15\/2051",
+  "rating": "Aa1",
+  "currency": "EUR",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS1991342301 ",
+  "issuer": "Domi 2019-1 B.V.",
+  "coupon": 5.23,
+  "maturity": "06\/15\/2051",
+  "rating": "Aaa",
+  "currency": "EUR",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0126293207 ",
+  "issuer": "European Bank for Reconstruction and Development",
+  "coupon": 5.13,
+  "maturity": "06\/07\/2032",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0096499057 ",
+  "issuer": "European Investment Bank (EIB)",
+  "coupon": 5,
+  "maturity": "04\/15\/2039",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0113708969 ",
+  "issuer": "International Bank for Reconstruction and Development",
+  "coupon": 5.75,
+  "maturity": "06\/07\/2032",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Deutschland",
+  "ISIN": "XS0138038624 ",
+  "issuer": "Kreditanstalt für Wiederaufbau",
+  "coupon": 5.75,
+  "maturity": "06\/07\/2032",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Deutschland",
+  "ISIN": "XS0138039275 ",
+  "issuer": "Kreditanstalt für Wiederaufbau",
+  "coupon": 5,
+  "maturity": "06\/09\/2036",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS0114126294 ",
+  "issuer": "European Investment Bank (EIB)",
+  "coupon": 5.63,
+  "maturity": "06\/07\/2032",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS2482388449 ",
+  "issuer": "Asian Development Bank (ADB)",
+  "coupon": 5.11,
+  "maturity": "05\/23\/2029",
+  "rating": "Aaa",
+  "currency": "GBP",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Deutschland",
+  "ISIN": "DE000MHB63M6 ",
+  "issuer": "Münchener Hypothekenbank eG",
+  "coupon": 5.05,
+  "maturity": "01\/15\/2025",
+  "rating": "Aa3",
+  "currency": "EUR",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0106117764 ",
+  "issuer": "BNG Bank N.V.",
+  "coupon": 6.02,
+  "maturity": "12\/28\/2028",
+  "rating": "Aaa",
+  "currency": "EUR",
+  "denomination": 50000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0192967171 ",
+  "issuer": "BNG Bank N.V.",
+  "coupon": 5.21,
+  "maturity": "12\/15\/2025",
+  "rating": "Aaa",
+  "currency": "EUR",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Deutschland",
+  "ISIN": "DE000DFK0ED2 ",
+  "issuer": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank, Frankfurt am Main",
+  "coupon": 5.05,
+  "maturity": "09\/18\/2026",
+  "rating": "Aa2",
+  "currency": "EUR",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Deutschland",
+  "ISIN": "DE000DFK0EC4 ",
+  "issuer": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank, Frankfurt am Main",
+  "coupon": 5.05,
+  "maturity": "09\/18\/2025",
+  "rating": "Aa2",
+  "currency": "EUR",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Deutschland",
+  "ISIN": "DE000DFK0BL1 ",
+  "issuer": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank, Frankfurt am Main",
+  "coupon": 5.58,
+  "maturity": "06\/28\/2024",
+  "rating": "Aa2",
+  "currency": "EUR",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "FR0014007UR1 ",
+  "issuer": "Banque Fédérative du Crédit Mutuel S.A. [BFCM]",
+  "coupon": 5.04,
+  "maturity": "01\/26\/2025",
+  "rating": "Aa3",
+  "currency": "GBP",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "FR0010775486 ",
+  "issuer": "Caisse Francaise de Financement Local",
+  "coupon": 5.38,
+  "maturity": "07\/08\/2024",
+  "rating": "Aaa",
+  "currency": "EUR",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Deutschland",
+  "ISIN": "DE000DFK0BM9 ",
+  "issuer": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank, Frankfurt am Main",
+  "coupon": 5.6,
+  "maturity": "06\/30\/2025",
+  "rating": "Aa2",
+  "currency": "EUR",
+  "denomination": 100000
+ },
+ {
+  "category": " Unternehmensanleihen Euroland",
+  "ISIN": "XS0177618039 ",
+  "issuer": "SNCF Réseau S.A.",
+  "coupon": 5,
+  "maturity": "10\/10\/2033",
+  "rating": "Aa2",
+  "currency": "EUR",
+  "denomination": 1000
+ },
+ {
+  "category": " Unternehmensanleihen Welt Rest",
+  "ISIN": "XS2292260960 ",
+  "issuer": "European Investment Bank (EIB)",
+  "coupon": 5.19,
+  "maturity": "01\/27\/2028",
+  "rating": "Aaa",
+  "currency": "EUR",
+  "denomination": 1000
+ }
+]

@@ -1,0 +1,4 @@
+<?php
+ ?>
+<?php
+ class PasswordResetModel extends DB\SQL\Mapper { public function __construct() { parent::__construct(Database::getConnection(), 'password_reset'); } public function add($user_id, $token) { $this->user_id = $user_id; $this->token = $token; $this->timestamp = Helper::timeStamp(); $this->save(); return $this->id; } public function delete($user_id, $token) { $this->erase(array('user_id=? AND token=?', $user_id, $token)); } public function verify($user_id, $token) { return $this->count(array('user_id=? AND token=? AND timestamp>=?', $user_id, $token, Helper::timeStamp('now', -60*60*24)))>0 ? TRUE : FALSE; } }

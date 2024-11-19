@@ -1,0 +1,1 @@
+<script type="text/javascript">$(document).ready(function(){var o={rules:[{type:"empty"}]};$("#form-subscription").form({fields:{subscription:o}}),$(".ui.dropdown").dropdown()});</script>

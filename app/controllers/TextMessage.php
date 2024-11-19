@@ -1,0 +1,4 @@
+<?php
+ ?>
+<?php
+ use Clickatell\Rest; use Clickatell\ClickatellException; class TextMessage { private $clickatell; public function __construct() { $f3 = Base::instance(); $this->clickatell = new \Clickatell\Rest($f3->get('SECURITY.CLICKATELL_API_ID')); } public function send($phoneNumber, $message) { Logger::log(sprintf('Sending message "%s" to %s', $message, $phoneNumber)); try { $messageResult = $this->clickatell->sendMessage([ 'to' => ['+'.$phoneNumber], 'content' => $message ]); Logger::log($messageResult); } catch (ClickatellException $e) { Logger::log(sprintf('Error when sending SMS to :%s', $e->getMessage())); } return NULL; } }

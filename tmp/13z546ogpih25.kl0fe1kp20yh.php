@@ -1,0 +1,1 @@
+<?php echo $this->render($tpl['analytics'],$this->mime,get_defined_vars(),0); ?>

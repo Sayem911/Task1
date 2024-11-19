@@ -1,0 +1,1 @@
+<include href="{{ @tpl.analytics }}" />
